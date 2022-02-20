@@ -12,4 +12,4 @@ Being a student we come across various hurdles in life, which at time lead towar
 ## What we learned
 We learned about Machine learning in this model, which helped us for detection of face and we also learned how to create a basic web page and how to deploy the backend code on the web with help of flask. 
 ## What's next for Moodify
-Next we are planning to upgrade this mole of ours and increase the accuracy of the same. We are even planninf to add a AI based chat bot with whom, one can share his/her problem and depending on the same, the Bot will suggest them out some solutions and also might suggest them the best suited movie in that situation. 
+Next we are planning to upgrade this model of ours and increase the accuracy of the same. We are even planninf to add a AI based chat bot with whom, one can share his/her problem and depending on the same, the Bot will suggest them out some solutions and also might suggest them the best suited movie in that situation. 
