@@ -13,7 +13,7 @@ Python is the programming language used to create the emotion recognition model 
 ## Challenges we ran into
 It was hard to find Movies and Songs datasets that reflected different emotions on the web. Finding templates of emotion-based movies and songs proved to be a major challenge. It was a challenging task to get the website to access 7 movie templates from the movies button and 7 song templates from the songs button based on the emotion recognized. Dynamic links were used as a means to access the templates for movies/songs corresponding to the output of the model.
 ## Accomplishments that we're proud of
-Being a student we come across various hurdles in life, which at time lead towards demotivation, and we are proud to tell that we shared this application of ours within our college and got very great feedbacks from them. 
+Creating a project that is effective for the modern generation. Working in unison despite being far away from each other. Creating this awesome project in such a small span of time! Learnt a great deal about Python and different frameworks such as flask and its integration, many new libraries in Python. We thought and build the entire solution in such a small amount of time, overcame all the challenges and find a hack to each problem.
 ## What we learned
 We learned about Machine learning in this model, which helped us for detection of face and we also learned how to create a basic web page and how to deploy the backend code on the web with help of flask. 
 ## What's next for **Moodify**
