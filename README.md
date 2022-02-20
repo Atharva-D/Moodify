@@ -1,6 +1,6 @@
 # Moodify
 ## Inspiration
-Today, we are going toward a world where everyone is striving for achievement, but many people are succumbing to depression as a result of this struggle. Making a few poor decisions occasionally. As a result, Moodify was designed to assist people in de-stressing by recommending movies and songs based on their feelings.
+Today, we are going towards a world where everyone is striving for achievement, but many people are succumbing to depression as a result of this struggle. Making a few poor decisions occasionally. As a result, **Moodify** was designed to assist people in de-stressing by recommending movies and songs based on their feelings.
 ## What it does
 **Moodify** is a facial expression recognition-based movie and music suggestion website that cheer up users and saves time while searching for a movie or song that matches their mood.
 1. It recognizes facial expression based on the 7 categories i.e., angry, sad, fear, happy, disgust, surprise and neutral.
