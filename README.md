@@ -10,7 +10,7 @@ Today, we are going towards a world where everyone is striving for achievement, 
 ## How we built it
 Python is the programming language used to create the emotion recognition model and deploy it on the web application using flask. CV2, TensorFlow, NumPy, matplotlib, and other libraries are also utilized. The model is build using the transfer learning approach for which MobileNet model is used. The FER-2013 dataset, which comprises around 35000 photos, was utilized for model training and validation. This model is deployed on a website created with HTML and CSS using the flask framework. Based on the seven emotions, a new dataset of movies and music was constructed. The data from movies and songs was utilized to create the various templates that correlate to various emotions. 
 ## Challenges we ran into
-The major challenge we faced were lack of dataset available across the web, which indeed affected the accuracy of the model, to overcome that we ourselves clicked few pics and added the same to the dataset. 
+It was hard to find Movies and Songs datasets that reflected different emotions on the web. Finding templates of emotion-based movies and songs proved to be a major challenge. It was a challenging task to get the website to access 7 movie templates from the movies button and 7 song templates from the songs button based on the emotion recognized. Dynamic links were used as a means to access the templates for movies/songs corresponding to the output of the model.
 ## Accomplishments that we're proud of
 Being a student we come across various hurdles in life, which at time lead towards demotivation, and we are proud to tell that we shared this application of ours within our college and got very great feedbacks from them. 
 ## What we learned
