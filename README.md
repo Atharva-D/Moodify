@@ -15,6 +15,6 @@ It was hard to find Movies and Songs datasets that reflected different emotions 
 ## Accomplishments that we're proud of
 Creating a project that is effective for the modern generation. Working in unison despite being far away from each other. Creating this awesome project in such a small span of time! Learnt a great deal about Python and different frameworks such as flask and its integration, many new libraries in Python. We thought and build the entire solution in such a small amount of time, overcame all the challenges and find a hack to each problem.
 ## What we learned
-We learned about Machine learning in this model, which helped us for detection of face and we also learned how to create a basic web page and how to deploy the backend code on the web with help of flask. 
+We learnt about the transfer learning approach for the model, which assisted us in face identification, as well as how to develop basic web pages using HTML, CSS and how to deploy the model on the web using flask.
 ## What's next for **Moodify**
 The next step is to improve the model's accuracy. We are also going to introduce an AI-based chat bot with which users may express their problems and, based on the same, the Bot will recommend some remedies as well as the most suitable movie or song in that case.
