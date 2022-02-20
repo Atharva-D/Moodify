@@ -1,5 +1,7 @@
-# Moodify 	![image]("https://github.com/Atharva-D/Assignment-Submission/blob/main/Moodify_Thumbnail.jpeg")
-
+# Moodify 	
+![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Moodify_Thumbnail.jpeg) 
+<!-- ![image]("https://github.com/Atharva-D/Assignment-Submission/blob/main/Moodify_Thumbnail.jpeg")
+ -->
 ## Inspiration
 Today, we are going towards a world where everyone is striving for achievement, but many people are succumbing to depression as a result of this struggle. Making a few poor decisions occasionally. As a result, **Moodify** was designed to assist people in de-stressing by recommending movies and songs based on their feelings.
 ## What it does
