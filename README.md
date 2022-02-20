@@ -2,7 +2,11 @@
 ## Inspiration
 Today, we are going toward a world where everyone is striving for achievement, but many people are succumbing to depression as a result of this struggle. Making a few poor decisions occasionally. As a result, Moodify was designed to assist people in de-stressing by recommending movies and songs based on their feelings.
 ## What it does
-Moodify is an OpenCV-based facial expressions recognition model that, based on the user's mood, recommends a few movies and music selections using a machine learning algorithm, which may help individuals cheer up and save time when browsing for a suitable film or song.
+**Moodify** is a facial expression recognition-based movie and music suggestion website that cheer up users and saves time while searching for a movie or song that matches their mood.
+1. It recognizes facial expression based on the 7 categories i.e., angry, sad, fear, happy, disgust, surprise and neutral.
+2. Based on the emotion it gives user two choices  either suggesting movies or songs.
+3. If user wishes to watch movies/songs then a list of movies/songs matching their mood are suggested with movie/songs poster.
+4. When user clicks on movie which he wishes to watch, they will be redirected to IMDB website and for songs it redirects them to Spotify website.
 ## How we built it
 Python is the primary programming language, and many of its libraries are utilised, including CV2, Keras, numpy, pandas, and others. The model uses a deep learning algorithm to recognise the user's facial expressions; the model is first trained and evaluated on a dataset of over 34,000 photos. The model first detects the user's expression and then suggests movies and music to cheer them up. Flask, HTML, and CSS are used to deploy the project to the web. With a user-friendly layout, our Web page strives to provide the user with a positive atmosphere.
 ## Challenges we ran into
