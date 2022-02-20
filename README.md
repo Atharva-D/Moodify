@@ -1,9 +1,7 @@
 # Moodify 	
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Moodify_Thumbnail.jpeg) 
-<!-- ![image]("https://github.com/Atharva-D/Assignment-Submission/blob/main/Moodify_Thumbnail.jpeg")
- -->
 ## Inspiration
-Today, we are going towards a world where everyone is striving for achievement, but many people are succumbing to depression as a result of this struggle. Making a few poor decisions occasionally. As a result, **Moodify** was designed to assist people in de-stressing by recommending movies and songs based on their feelings.
+In today's world where everyone is striving for achievement, but many people are succumbing to depression as a result of this struggle. Making a few poor decisions occasionally. As a result, **Moodify** was designed to assist people in de-stressing by recommending movies and songs based on their feelings.
 ## What it does
 **Moodify** is a facial expression recognition-based movie and music suggestion website that cheer up users and saves time while searching for a movie or song that matches their mood.
 1. It recognizes facial expression based on the 7 categories i.e., angry, sad, fear, happy, disgust, surprise and neutral.
@@ -18,5 +16,5 @@ It was hard to find Movies and Songs datasets that reflected different emotions 
 Being a student we come across various hurdles in life, which at time lead towards demotivation, and we are proud to tell that we shared this application of ours within our college and got very great feedbacks from them. 
 ## What we learned
 We learned about Machine learning in this model, which helped us for detection of face and we also learned how to create a basic web page and how to deploy the backend code on the web with help of flask. 
-## What's next for Moodify
-Next we are planning to upgrade this model of ours and increase the accuracy of the same. We are even planninf to add a AI based chat bot with whom, one can share his/her problem and depending on the same, the Bot will suggest them out some solutions and also might suggest them the best suited movie in that situation. 
+## What's next for **Moodify**
+The next step is to improve the model's accuracy. We are also going to introduce an AI-based chat bot with which users may express their problems and, based on the same, the Bot will recommend some remedies as well as the most suitable movie or song in that case.
